@@ -1,0 +1,14 @@
+{
+  "first_name": "Maxim",
+  "last_name": "IGOR",
+  "summary": "I am talented full-stack developer with over 10 years experiences in the field. I have strong background in programming languages such as Python, TypeScript and Node.js and I am proficient in using frameworks and libraries like React, Next.js and Flask. ",
+  "about": "Currently, I’m working @ Sonex as a back-end developer, I live in Boston Ukraine, with more than 10 years of professional experience I transform ideas into reality using JS, with latest technologies such as React.js, Node.js, Next.js, Redux, Angular2+, I care about code readability and maintainability and actively I use linters and code analysis tools like Prettier, ESLint, StyleLint, I find happiness in being a better me today than I was yesterday. Scroll down to see some of the projects I've been working on.",
+  "socials": [
+    {
+      "name": "linkedin",
+      "link": "https://www.linkedin.com/in/hafid-ziti"
+    },
+    { "name": "github", "link": "https://github.com/HafidZiti" },
+    { "name": "twitter", "link": "https://twitter.com/hafidziti" }
+  ]
+}
