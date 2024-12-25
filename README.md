@@ -4,14 +4,14 @@
 
 <div align="center">
   <strong>
-    hafidziti.dev
+    maximigor.dev
   </strong>
 </div>
   
 <br>
   
 <p align="center">
-Designed and created with ❤️+☕ by <a href="https://hafidziti.dev">Hafid ZITI</a>.
+Designed and created with ❤️+☕ by <a href="https://hafidziti.dev">Maxim Igor</a>.
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ $ yarn start
 
 ## License 📜
 
-`Hafid's portfolio` is available under the MIT license.
+`Maxim's portfolio` is available under the MIT license.
 
 ## Deploy your own
 
