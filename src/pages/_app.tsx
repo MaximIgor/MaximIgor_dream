@@ -32,17 +32,17 @@ function MyApp({ Component, pageProps }: AppProps) {
         <meta property="og:locale" content="en_US" />
 
         {/* Twitter */}
-        <meta property="twitter:card" content="summary_large_image" />
+        {/* <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://hafidziti.dev/" />
-        <meta property="twitter:site" content="@HAFIDziti" />
-        <meta
+        <meta property="twitter:site" content="@HAFIDziti" /> */}
+        {/* <meta
           property="twitter:title"
           content="Maxim | Backend developer"
         />
         <meta
           property="twitter:description"
           content="Hello world! I'm Maxim, a self-taught Backend develop, JS lover."
-        />
+        /> */}
       </Head>
       <ChakraProvider resetCSS theme={theme}>
         <Component {...pageProps} />
